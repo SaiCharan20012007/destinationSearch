@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.locationImage {
+  height: 175px;
+}
+
+.item {
+  margin: 50px;
+}
+.locationName {
+  font-family: Roboto;
+  color: #000000;
+  font-weight: 500;
+}
